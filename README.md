@@ -2,8 +2,8 @@
 This is a group project for software testing.
 
 We use a open-source APP to do this project.
-## Reference: https://github.com/runalb/Inventory-Management-System
-## Inventory Management System 	Designed By: Runal Bana
+### Reference: https://github.com/runalb/Inventory-Management-System
+### Inventory Management System 	Designed By: Runal Bana
 
 
 
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 python manage.py runserver
 
-username: admin
+username: admin \\
 Password: admin
 
 
