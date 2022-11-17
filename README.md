@@ -13,7 +13,8 @@ pip install -r requirements.txt
 
 python manage.py runserver
 
-username: admin \\
+username: admin  
+
 Password: admin
 
 
